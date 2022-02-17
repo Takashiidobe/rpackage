@@ -1,0 +1,13 @@
+Package: rpackage
+Version: 0.1.0
+Authors@R:
+    person("Takashi", "Idobe", , "mail@takashiidobe.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Has functions for basic math.
+Title: Exports common helper functions I use daily.
+License: MIT
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Depends:
+  R (>= 4.1.4)
